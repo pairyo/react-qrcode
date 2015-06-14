@@ -7,7 +7,7 @@ Install
 ------
 `npm install react-qrcode`
 
-Use
+Usage
 ---
 `<QRcode text="http://www.pairyo.com/" width=256 height=256 />`
 
@@ -18,6 +18,8 @@ Creator
 Contributors
 ---
 [hophacker](https://github.com/hophacker)
+
+[zhcalvin](https://github.com/zhcalvin)
 
 Thanks
 ----
