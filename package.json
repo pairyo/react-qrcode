@@ -3,6 +3,7 @@
   "version": "0.1.2",
   "description": "QR code for ReactJS",
   "main": "QRcode.js",
+  "browserify": {"transform": ["reactify"]},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
